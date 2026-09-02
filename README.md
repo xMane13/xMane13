@@ -15,7 +15,6 @@ Trabajo en el cruce de **ingeniería de software** e **inteligencia artificial**
 
 | Proyecto | Descripción |
 |---|---|
-| [ai-job-search](https://github.com/xMane13/ai-job-search) | Framework de búsqueda de empleo con IA construido sobre Claude Code: evalúa ofertas, adapta CVs, redacta cartas y prepara entrevistas. |
 | [sentiment-agent-langgraph](https://github.com/xMane13/sentiment-agent-langgraph) | Agente de análisis de sentimiento construido con LangGraph. |
 | [Centralized-Federated-Learning](https://github.com/xMane13/Centralized-Federated-Learning) | Experimentos de aprendizaje federado centralizado. |
 | [Detection-DeepFake-FF-](https://github.com/xMane13/Detection-DeepFake-FF-) | Detección de deepfakes sobre el dataset FaceForensics++. |
