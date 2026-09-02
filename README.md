@@ -94,4 +94,6 @@ Smaller research and coursework projects in agents and machine learning:
 
 ## Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelmoon/)
+
 📫 manuel976431@gmail.com
