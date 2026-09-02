@@ -8,7 +8,7 @@ I work at the intersection of **software engineering** and **applied machine lea
 - 🧠 Research contributor on **Math2Braille**, an accessibility project — co-founded with [Edwin Hurtado](https://github.com/Hedurtado).
 - 🤖 Exploring AI agents with **LangGraph** and automated workflows on **Claude Code**.
 - 📊 Background in computer vision, federated learning, and deepfake detection.
-- 🎮 Hobbyist **video game developer** — I build small games in Python in my free time.
+- 🎮 Hobbyist **video game developer** — I build small games with Python, Godot, and Unity in my free time.
 - 🌱 Currently deepening my knowledge of distributed systems (Kubernetes, HPC/MPI).
 
 ## Featured Projects
@@ -28,11 +28,12 @@ Accessibility-focused project aimed at helping visually impaired students access
 - Role: Co-Founder / Technical Contributor
 - Built alongside [Edwin Hurtado](https://github.com/Hedurtado)
 
-### CV_RythmGame
+### Game Development
 
-A rhythm game built in Python — my main outlet for hobby game development.
+Hobby game dev across engines — my main outlet outside of research and web work.
 
-- **[CV_RythmGame](https://github.com/xMane13/CV_RythmGame)**
+- **[CV_RythmGame](https://github.com/xMane13/CV_RythmGame)** — a rhythm game built in Python
+- Also building smaller projects in **Godot** and **Unity**
 
 ### FedParamRag
 
@@ -64,6 +65,11 @@ Smaller research and coursework projects in agents and machine learning:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+
+### Game Development
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
 ### Systems & Infrastructure
 
