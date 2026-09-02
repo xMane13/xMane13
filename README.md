@@ -79,12 +79,12 @@ Smaller research and coursework projects in agents and machine learning:
 
 ## Publications & Research
 
-- **Dimensionality Reduction via Gaussian Random Projection for Cyberattack Classification**
-  Accepted at **CIT 2026**. *(published as Manuel Muñoz)*
-
 - **Development of a Python Program for Converting Spanish Math PDFs Into Braille**
   Presented at **CSEI 2023**, published in *Lecture Notes in Networks and Systems*, Springer.
-  DOI: https://doi.org/10.1007/978-3-031-70981-4_18 *(published as Manuel Muñoz)*
+  DOI: https://doi.org/10.1007/978-3-031-70981-4_18
+
+- **La fórmula de Leibniz y el Truco Favorito de Feynman**
+  Published in *Mixba'al, Revista Metropolitana de Matemáticas*, Vol. 15, No. 1, pp. 73–94, 2024.
 
 ## Connect With Me
 
